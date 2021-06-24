@@ -38,7 +38,7 @@ const loginRequest = {
 };
 
 const tokenRequest = {
-    scopes: ["Mail.Read"],
+    scopes: ["Mail.Read"], //update this with your API scope
     forceRefresh: false
 };
 
